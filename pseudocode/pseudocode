@@ -1,0 +1,12 @@
+import crypt
+ 
+label START
+$rand = random.range(21..29)
+if $rand mod 22 == 1
+    continue
+else
+    goto START
+$hash = crypt.md5($rand)
+print("flag{"+$hash[29]+$hash[6]+$hash[6]+$hash[14]+"}")
+quit
+
