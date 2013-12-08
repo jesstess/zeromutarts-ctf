@@ -35,3 +35,5 @@ We'll use `SuperSecur3password!1` to get the flag:
     Congratulations! Your flag is: "flag{hardcoded_passwords_are_hardcoded}"
 
 The flag is thus `hardcoded_passwords_are_hardcoded`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

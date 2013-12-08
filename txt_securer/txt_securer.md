@@ -69,3 +69,5 @@ Running the revised `txt_securer.py`, we get:
     Here is third message, to confuse our oponent, but he can't read this message anyway.
 
 The flag is thus `can_you_believe_xor_provides_perfect_security?`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

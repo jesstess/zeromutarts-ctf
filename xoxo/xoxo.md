@@ -32,3 +32,5 @@ We get this resulting image diff:
 ![diff](images/xoxo-diff.png "xoxo image diff")
 
 The flag is thus `meet_me_at_the_gates_at_midnight`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

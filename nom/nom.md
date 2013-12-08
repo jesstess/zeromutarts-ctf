@@ -49,3 +49,5 @@ the flag:
     flag{come_to_the_dark_side}
 
 The flag is thus `come_to_the_dark_side`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

@@ -51,3 +51,5 @@ Running our exploit, we get:
     flag{well_that_executed_quickly} # Output of cat.
 
 The flag is thus `well_that_executed_quickly`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

@@ -29,3 +29,5 @@ credentials and then use them on the login page. After logging in, we see:
 ![humans flag](images/humans_flag.png "humans flag")
 
 The flag is thus `can_i_borrow_a_cup_of_robots`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

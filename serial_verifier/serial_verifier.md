@@ -128,3 +128,5 @@ Using this script, we can generate the serial number for session 1509:
 
 Supplying that number in the web form reveals the flag, which is
 `why_so_serial`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

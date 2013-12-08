@@ -25,3 +25,5 @@ of 4:
     vd vntkc mdudq lzjd hs sgzs dzrx.. ntq dmbqxoshnm hr nmd rsdo zgdzc!here is an incredible thought of caesarn what we wish, we readily believe, and what we ourselves think, we imagine others think also. we wish the flag is flag{twenty_three_stabs_are_way_too_many}
 
 The flag is thus `twenty_three_stabs_are_way_too_many`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

@@ -14,3 +14,5 @@ Let's learn a bit more about the image by running it through `file`:
     hidden.jpg: JPEG image data, JFIF standard 1.01, comment: "flag{oh_shit_you_must_be_the_chosen_one}"
 
 The flag is thus `oh_shit_you_must_be_the_chosen_one`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

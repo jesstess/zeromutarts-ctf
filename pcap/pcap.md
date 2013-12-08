@@ -17,3 +17,5 @@ And then a second, which contains our flag:
 ![pcap](images/pcap_post2.png "pcap challenge introduction")
 
 The flag is thus `use_ssl_dude`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

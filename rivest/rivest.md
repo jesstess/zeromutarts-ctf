@@ -105,3 +105,5 @@ Running the script, we get:
     flag{rivest_and_the_cool_gang_would_be_proud}
 
 The flag is thus `rivest_and_the_cool_gang_would_be_proud`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

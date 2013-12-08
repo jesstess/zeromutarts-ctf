@@ -156,3 +156,5 @@ Running our exploit, we get:
     Well done! here is your flag: flag{were_running_out_of_flags}
 
 The flag is thus `were_running_out_of_flags`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

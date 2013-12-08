@@ -19,3 +19,5 @@ displayed:
     <a>flag{the_water_revamps_the_spotted_food}</a><br>
 
 That is the true flag, namely `the_user_checks_the_sourcecode`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

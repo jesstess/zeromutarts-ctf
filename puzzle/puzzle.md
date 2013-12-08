@@ -21,3 +21,5 @@ Uploading the assembled QR code to an [online QR code decoder](http://zxing.org/
 ![decoded QR code](images/qr_decoded.png "decoded QR code")
 
 The flag is thus `zero_mutarts_ninja_turtles`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

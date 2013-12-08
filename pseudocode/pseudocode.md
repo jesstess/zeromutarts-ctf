@@ -35,3 +35,5 @@ in the allowed range that is 1 mod 22, so we can implement the pseudocode using
     affe
 
 The flag is thus `affe`.
+
+[« Return to challenge board](../README.md "Return to challenge board")

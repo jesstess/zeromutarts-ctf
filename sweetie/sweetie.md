@@ -46,3 +46,5 @@ Let's check out that `flag` file:
     15:09 <SweetieBot> flag{set_phasers_to_hug}
 
 The flag is thus `set_phasers_to_hug`.
+
+[« Return to challenge board](../README.md "Return to challenge board")
